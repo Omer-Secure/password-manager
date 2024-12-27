@@ -1,6 +1,6 @@
-### **`pass-manager`**: A Secure Command-Line Password Manager
+### **`password-manager`**: A Secure Command-Line Password Manager
 
-`pass-manager` is a Python-based command-line tool for managing passwords with robust AES-256 encryption. It ensures your passwords are securely stored, retrieved, and managed with ease.
+`password-manager` is a Python-based command-line tool for managing passwords with robust AES-256 encryption. It ensures your passwords are securely stored, retrieved, and managed with ease.
 
 ---
 
@@ -50,17 +50,17 @@
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/yourusername/pass-manager.git
+    git clone https://github.com/Omer-Secure/password-manager.git
     ```
 
 2. **Navigate to the Directory:**
     ```bash
-    cd pass-manager
+    cd password-manager
     ```
 
 3. **Run the Script:**
     ```bash
-    python pass_manager.py
+    python password_manager.py
     ```
 
 ---
@@ -83,7 +83,7 @@
 ## **Example Session**
 
 ```bash
-$ python pass_manager.py
+$ python3 password-manager.py
 
 █████████████████████████████████████████████████████████
 
