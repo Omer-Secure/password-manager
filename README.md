@@ -106,15 +106,15 @@ Choose an option:
 
 ### **Adding a Password**
 ```plaintext
-Enter a label for the password: Email
 Enter the password to store: ********
+Enter a label for the password: Email
 Password stored successfully!
 ```
 
 ### **Viewing Stored Passwords**
 ```plaintext
-1) Email: examplepassword123
-2) Bank: securebanking123
+1) Email: example-password123
+2) Bank: secure-banking123
 ```
 
 ### **Deleting a Password**
