@@ -60,7 +60,7 @@
 
 3. **Run the Script:**
     ```bash
-    python3 password_manager.py
+    python3 password-manager.py
     ```
 
 ---
